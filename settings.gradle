@@ -1,0 +1,2 @@
+rootProject.name='LR2'
+include ':app'
